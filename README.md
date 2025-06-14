@@ -5,6 +5,9 @@
 
 ## Link to install Python Package from pypi:
    https://pypi.org/project/neural-sync/
+   
+## Demo Video
+https://www.youtube.com/watch?v=dbIhXpAP6lE
 
 ## Overview
 
